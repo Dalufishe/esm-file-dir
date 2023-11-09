@@ -1,0 +1,23 @@
+{
+  "name": "esm-file-dir",
+  "version": "1.0.0",
+  "description": "__dirname and __filename in ES Modules without the need for imports",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dalufishe/esm-file-dir.git"
+  },
+  "keywords": [
+    "node",
+    "esm",
+    "__dirname",
+    "__filename"
+  ],
+  "author": "Dalufishe <fishawe87@gmail.com> (https://github.com/Dalufishe)",
+  "license": "MIT",
+  "homepage": "https://github.com/Dalufishe/esm-file-dir"
+}
